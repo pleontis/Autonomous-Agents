@@ -4,4 +4,4 @@ Autonomous Agents course. Project written in Python using Q-learning for an auto
 A website was created for representing the project. There is given the source code, a report, a .pptx presentation and a video showing the autonomous behavior.
 All are available to download via the site.
 
-Copy link: https://panagiotisleontis.wixsite.com/pleontisautoagents for opening the projects website
+Copy link: https://panagiotisleontis.wixsite.com/pleontisautoagents for opening project's website
